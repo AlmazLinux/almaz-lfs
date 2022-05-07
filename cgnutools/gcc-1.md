@@ -1,4 +1,4 @@
-# Cross GNU Toolchain - GCC 11.2.1 rev 20220219
+# Cross GNU Toolchain - GCC 11.2.1 rev 20220219 - pass 1
 Build and install as **almaz** user on host system
 
 GCC now requires the GMP, MPFR and MPC packages to build.
