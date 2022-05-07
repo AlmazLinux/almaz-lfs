@@ -1,6 +1,6 @@
 # Cross GNU Toolchain - Binutils 2.38
-### Build and install as almaz user on host system
-### Required for building GCC
+Build and install as almaz user on host system
+Required for building GCC
 
 Unpack GNU Binutils sources, and then create build directory
 
